@@ -27,7 +27,7 @@ The project relies on the following Python libraries:
 * Custom utilities for data preprocessing and feature engineering
 
 ## Code Structure
-The main predictor code can be found in [`predictor.py`](./predictor.py). 
+The main predictor code can be found in [`predictor.ipynb`](./predictor.ipynb). 
 
 ## Data
 The dataset can be downloaded from [`matches.csv`](./data/matches.csv) here.
